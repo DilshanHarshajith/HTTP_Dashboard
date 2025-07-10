@@ -31,6 +31,8 @@ A secure Flask-based web application for logging and managing HTTP requests with
 2. **Install required dependencies**:
    ```bash
    pip install flask werkzeug requests python-dotenv waitress
+   or
+   pip install -r requirements.txt
    ```
 
 3. **Set up environment variables** (optional but recommended):
